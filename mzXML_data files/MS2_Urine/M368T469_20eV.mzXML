@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT469.081S" endTime="PT469.081S">
+    <parentFile fileName="file:///C:\Xcalibur\data\SH\201022\HILIC\Urin_24h/QC_Amf_Ratten_Urin_24h_M368T469_neg_20eV.raw"
+                fileType="RAWData"
+                fileSha1="5a275dc99c73e5c2fd67cb438504c0ef6ae145de"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="22"
+          polarity="-"
+          retentionTime="PT469.081S"
+          collisionEnergy="20.0"
+          lowMz="58.04224395752"
+          highMz="368.134887695313"
+          basePeakMz="192.1025686"
+          basePeakIntensity="9826.890600000001"
+          totIonCurrent="47060.0">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">368.1336</precursorMz>
+      <peaks compressionType="zlib"
+             compressedLen="236"
+             precision="64"
+             byteOrder="network"
+             contentType="m/z-int">eJxz8GXNcGBgYHDoYHygAKJ9101vANHdQo0PQLRf3+0DILq9tBUsHlhyYgGIXh/esADCfwPWv3nvrgQQHcLRDjangzsQzA8L/cUA5m8pAKuLCDsDFp9TxQfWHzVzAtiedqcAsL6YTRZg9V3zOsF0gkQ92N72r1fAdNLbf2B9XVeXg+nUB6fA7pvKpArmp5cwgM3pLKkHm5vB7AG297BhEQOE3wa2v/ttOVhfFlccmJ4Q+QQsnlX9F2xOp+5SCH9ZE9iczuITYLrUdjJYfML662D3lD78B9Y/OSkdrK+cSQMsfvD3RpB6ABw4YWM=</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">820</offset>
+  </index>
+  <indexOffset>1837</indexOffset>
+  <sha1>b70152446a03dfe4eaca294e032f740d3705cd61</sha1>
+</mzXML>

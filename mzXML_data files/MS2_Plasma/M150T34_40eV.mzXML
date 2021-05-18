@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT35.2118S" endTime="PT35.2118S">
+    <parentFile fileName="file:///C:\Xcalibur\data\SH\201022\PhenHex\Plasma_1h/QC_Amf_Ratten_Plasma_1h_M150T34_40eV.raw"
+                fileType="RAWData"
+                fileSha1="7582da01050fadb7d5d8bf87c1d70ed2e7e5dd10"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="304"
+          polarity="+"
+          retentionTime="PT35.2118S"
+          collisionEnergy="20.0"
+          lowMz="50.076538085938"
+          highMz="169.045807797647"
+          basePeakMz="61.011569976807"
+          basePeakIntensity="1.007327e06"
+          totIonCurrent="4.01745844e06">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="2.0">150.0583</precursorMz>
+      <peaks compressionType="zlib"
+             compressedLen="3305"
+             precision="64"
+             byteOrder="network"
+             contentType="m/z-int">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</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">819</offset>
+  </index>
+  <indexOffset>5935</indexOffset>
+  <sha1>06ddd93cfea1eb23fed47ba749cf8bebd75c8585</sha1>
+</mzXML>

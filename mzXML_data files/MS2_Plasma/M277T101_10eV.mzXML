@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT94.9053S" endTime="PT94.9053S">
+    <parentFile fileName="file:///C:\Xcalibur\data\SH\201116\HILIC\Plasma_1h/QC_Amf_Ratten_Plasma_1h_M277T101_10eV.raw"
+                fileType="RAWData"
+                fileSha1="29ed7da4540e59a8d84f63bd27dcc8d9fbaf01d4"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="206"
+          polarity="+"
+          retentionTime="PT94.9053S"
+          collisionEnergy="10.0"
+          lowMz="50.372634887695"
+          highMz="278.24755859375"
+          basePeakMz="277.14364"
+          basePeakIntensity="2.3107078e05"
+          totIonCurrent="1.4205624e06">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="2.0">277.1432</precursorMz>
+      <peaks compressionType="zlib"
+             compressedLen="1811"
+             precision="64"
+             byteOrder="network"
+             contentType="m/z-int">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</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">818</offset>
+  </index>
+  <indexOffset>3935</indexOffset>
+  <sha1>145076e6cf40d3817620d978439810b52c8b5888</sha1>
+</mzXML>

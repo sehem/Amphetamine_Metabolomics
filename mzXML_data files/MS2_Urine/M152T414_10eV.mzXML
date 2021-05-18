@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT415.172S" endTime="PT415.172S">
+    <parentFile fileName="file:///C:\Xcalibur\data\SH\201022\HILIC\Urin_24h/QC_Amf_Ratten_Urin_24h_M152T414_10eV.raw"
+                fileType="RAWData"
+                fileSha1="d3ab66c57924bc6bc1e58640f8ffed027dfcc5e8"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="48"
+          polarity="+"
+          retentionTime="PT415.172S"
+          collisionEnergy="10.0"
+          lowMz="53.10457611084"
+          highMz="153.139129638672"
+          basePeakMz="135.0809056"
+          basePeakIntensity="7.124906e06"
+          totIonCurrent="1.1412649e07">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">152.107</precursorMz>
+      <peaks compressionType="zlib"
+             compressedLen="490"
+             precision="64"
+             byteOrder="network"
+             contentType="m/z-int">eJwlkV1IFGEUhkd3FSKQfrBsURAJugir9UIIhHZ1U1ijNcQtHNdGJ5E0wciLDAnZFu+kO0WDmN1Ra5GELUyoJG0K1C1SUkkrHCwRiyzzLjLke76rl+ec97znfDMef3f9hKIonlioXxNaHm7IFRpfX5c8f8wQahopitBzb3zUo3fPe4QGrv2hbpyMSr4jfQ9cY+QExu/hj903yamYKqUfm87uFHphY9wW+rjwnyH5M/2XuRnUK4vD1Mcai8irXGplLtp+iNyqgxH8Q3YB/ir3B+4wm7bwBUu+wAPLtyRHXMwN5ddQD1pdsO07jF60CsgbbjfIu+T5xPd50ThFvdpyixxv2anj3FW908HcyOhNVHVcxZe4/ZS+mlaIjmr7yVPPttBPfnsk/ZE+me/2c5/adZr6QMt7NOSLMDeXWUG/1hFHR0Jp1Gt9J9DN1TpyLzu/ws8f/mBem9zinYmPBndor/rgWfM1fs1y8V1/NzWj2ttF7hnUn0he7RHsVfO/s7cuNUHOO6WN/PrwdfbFN/eiesoCvgXTT46eWkrO32d7OiVH2WsfWTMk/8Q3e8CW7GgVfu++Dfl/dUeSuV+DVyQ7M+CV/1lyn7MXTgaWydXzcvANr5yR/bygfM+ixR360RvwTPq26O8CTi/OzA==</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">816</offset>
+  </index>
+  <indexOffset>2171</indexOffset>
+  <sha1>d829626561ac3b6fc35d20e96153598272c3b70a</sha1>
+</mzXML>

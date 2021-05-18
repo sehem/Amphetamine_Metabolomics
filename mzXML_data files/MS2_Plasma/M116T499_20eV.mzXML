@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT502.621S" endTime="PT502.621S">
+    <parentFile fileName="file:///C:\Xcalibur\data\SH\201022\HILIC\Plasma_1h/QC_Amf_Ratten_Plasma_1h_M116T499_20eV.raw"
+                fileType="RAWData"
+                fileSha1="188e28966ac2c7f2305da4c562d2b609e19af712"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="14"
+          polarity="+"
+          retentionTime="PT502.621S"
+          collisionEnergy="20.0"
+          lowMz="52.621433258057"
+          highMz="128.325927734375"
+          basePeakMz="70.06605421"
+          basePeakIntensity="2.3960568e06"
+          totIonCurrent="2.5450448e06">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">116.0708</precursorMz>
+      <peaks compressionType="zlib"
+             compressedLen="158"
+             precision="64"
+             byteOrder="network"
+             contentType="m/z-int">eJxz8PLvVmBgYHBoTmFIANFeF341gOj2S9JgvvdidzDdqj4bTPtylC0A0XvXvAGr84/7Daabyn4eANGBzFZg/sV7FWA6sMXKAUg7OrmfAesPPFIA1r/A5ztE/Y2ZYHr5IhkGEB3UZg1S7zA1QA1Mh8vfAIu3iTuD9Uc0PwS7d0bEebB8LEs32LzbWhvB8glceWD1Ha80QfYDAP0fOU4=</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">818</offset>
+  </index>
+  <indexOffset>1732</indexOffset>
+  <sha1>373aaba33cdade5e107f41ff77195f5804e0e345</sha1>
+</mzXML>

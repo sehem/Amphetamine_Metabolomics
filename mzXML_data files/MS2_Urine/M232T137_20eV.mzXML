@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT141.894S" endTime="PT141.894S">
+    <parentFile fileName="file:///C:\Xcalibur\data\SH\201022\PhenHex\Urin_24h/QC_Amf_Ratten_Urin_24h_M232T137_20eV.raw"
+                fileType="RAWData"
+                fileSha1="214aee2bf9f36a6ee72c45f9e4594b2ad143207f"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="122"
+          polarity="+"
+          retentionTime="PT141.894S"
+          collisionEnergy="20.0"
+          lowMz="54.151657104492"
+          highMz="233.190383911133"
+          basePeakMz="187.0065288"
+          basePeakIntensity="2.1899753e05"
+          totIonCurrent="8.5457331e05">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="2.0">232.0636</precursorMz>
+      <peaks compressionType="zlib"
+             compressedLen="1111"
+             precision="64"
+             byteOrder="network"
+             contentType="m/z-int">eJwtlH1M1HUcx5EDUhrNLKBR+RAbsweTphCWNC5P5nZAAgIBcsCdxB3cWTQnmAl3v7vjePAAoZjCkENJacE1KpHARw6yMh1L51xhwiUl4smsKN3E6l5f/nrv/fB5fz+/7+/uF6d8Qmf08fGJq9jxIqi0BcV50dJRt9yLCQGlYNfOZvQEi97hxX1fK8bh1cHw5u1e+39+JYC8dMEEJi4sA83LDPiJN37jHKl1FkzyvwhWLSynPylwF3zYMyP8tb8wZxo8L/j6leQqdk9w7mZXNf01ld3kkhW15Jp3RLBfsmU9+rGS7eSSPznHnDNuLA/uiiLvbK+Fp/hOkbOrnZyTUhmLbm78G55qlpG3bGslt0VRyTn7i6YFd0WRq1wS6yP47TNe7Ft0mFya/2v4xwfd9KbFfoB/sK9McPm4l8sfOTaMnqaIoqfeajAK7oHbYlSiTwpF7zmRz3OlVa4DLZ91oKcrw8lbtGNgussGHtRfYt8MhY180+vi/WZY1tHbMNoHZrjW4Nc0SfRljFiZ7/o3Hf3toWvkrDOn4Zl+k2J+VRn7Z264Tm/1w3jmM09FwPcumiOfJYsGj7+/HD9LYWGvI6tbBXdFgvc2BnM/WSOV5O2Zw5yTLSvE/9K5Bz9bEUl/3Q2z8OOt9DUPbxT+0Bh72X7PFL6rTrzf0nJyW10m9CORqfRsHdnH89auFfedM79fy5NfCN5ho08K2kxPTs9R8sZ7WvbKGbGi19yOIa964zJ+Q/936CpFJHrt4lR6VUPXxPs7HSj4yCq48VY9fblmO3u1L/kJP9c6Qc/JGTO53G/CyNkenELPe/Mc2OkXInjFK/hSqJM98g6FgI6L4v+XdziO3rreaJEfWsx+5pdKHIKno7s+XyDy7mb6JjzJ5PJ9e8k5q/rpzV/hwa+eflr44U+h20tCBFd/S1/9TSNzalk89zmQ+ABf/VwJ80d7EkC1+iN069UpwaV3mWsb3MKcekCDXz4tvlPqK+fh0p2rnKv+9QBz9iTxu1f/9SO+UVKCGl85zy8Z/iGvkb2H3m68S16z7Bn2lVST5DRdLaBpzVnuQ+P+A2zyX838trZd7LW3+HHmC3Sz6KbLA+gFZnEvNZd2Cv9QC/pZnfj/FgyH0dcYdofcO0vF9/XAuJJ8YR7fL3ngYDe5QvX36I0BrZxTaEwhP/RzP31aVT56m9OBrm2Xi/e751nmtQ/tzFti3OR05k54Q8ac4G1u8qYxB6hz1HAfX/0g3nNRm/gdWoJmwSLXCnKdWTfnuZ5zJEsTWDQhvpejjlHmixe8RZ/pQx/yxfmPcm71/Q3o+vIc9rZlp6HrTY+R8zx/ix59x8vcX+8LFaD+01HQNCUX8+5euHn0LnvpJ8V3t/t+OOcbfBfT13HB4xBcS2/V9RjQIFtKzrZ/5TzfzfzHczmC+23Cb4gePCP4n+x5olRHzuBvw29Uhoh8eLB4nvF40BARyrlVJ1/18v8A9qEMSw==</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">818</offset>
+  </index>
+  <indexOffset>3006</indexOffset>
+  <sha1>c9574e12ec849d606b3556b9b94378a2b50789e2</sha1>
+</mzXML>
